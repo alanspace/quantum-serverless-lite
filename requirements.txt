@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit_qasm3_import

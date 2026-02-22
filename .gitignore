@@ -1,0 +1,18 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+qiskit_env/
+
+# Environment Variables / Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Celery / Redis / Logs
+celerybeat-schedule
+*.log
